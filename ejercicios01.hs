@@ -39,4 +39,4 @@ digitoUnidades x = mod x 10
 -- Ejericio 8 --
 
 digitoDecenas :: Int -> Int
-digitoDecenas x = mod x 100"# taller-algebra" 
+digitoDecenas x = mod x 100
